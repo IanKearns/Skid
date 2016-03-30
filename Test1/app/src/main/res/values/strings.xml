@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skid-Velocity</string>
+    <string name="prompt">Enter distance in meters</string>
+    <string name="instructions">App to calculate speed of vehicle from skid length</string>
+    <string name="go_back">Return</string>
+    <string name="cal">Calculate</string>
+</resources>
